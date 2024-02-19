@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chamindu Dahanayaka
 - 👀 I’m interested in Front-end Web Development.
-- 🌱 I’m currently learning more about CSS and JavaScript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 🔍 Take a look at my work on [Frontend Mentor](https://www.frontendmentor.io/profile/ChaminduD)
 - 📫 How to reach me: chamindud.dahanayaka@gmail.com
